@@ -12,9 +12,9 @@ function Home() {
                             React Animation By Devknus
                         </h1>
                         <p className='text-lg text-white font-semibold'>
-                            <span className='text-[#75edff] text-2xl' >React </span>
-                            <span className='text-[#b4a3ff] text-2xl' >Awesome </span>
-                            <span className='text-[#8dffc6] text-2xl' >Reveal</span>
+                            <span className='text-[#75edff] text-2xl'>React </span>
+                            <span className='text-[#b4a3ff] text-2xl'>Awesome </span>
+                            <span className='text-[#8dffc6] text-2xl'>Reveal</span>
                         </p>
                     </div>
                     <div className="flex flex-wrap">
